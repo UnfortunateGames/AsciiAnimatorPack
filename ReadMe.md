@@ -5,12 +5,12 @@ Platform :P
 
 ## To clear things out...
 
-> [!I DO NOT OWN ASCII ANIMATOR]
+> I DO NOT OWN ASCII ANIMATOR
 
 > Please check out ThatCherclough on GitHub, it is where I got one of a kind program
 > If you want to check him out it's [ThatCherclough](https://github.com/thatcherclough/AsciiAnimator)
 
-> [!I AM SIMPLY A REDISTRIBUTOR OF THIS SOFTWARE]
+> I AM SIMPLY A REDISTRIBUTOR OF THIS SOFTWARE
 
 > I want to make this easier to get comfortable with, it is cool if you do not
 > want this kind of software to toy with. It is simply what I like and want to
@@ -39,7 +39,7 @@ Here are THREE simple steps
     
     You NEED to put [frame] in between all the frames
       Example:
-
+  ```
         test
 
         [frame] - Like this.
@@ -47,6 +47,7 @@ Here are THREE simple steps
         test
 
         [frame] - It also needs an ending [frame] too
+  ```
 
 Now you know how to animate in ASCII ANIMATOR.
 
