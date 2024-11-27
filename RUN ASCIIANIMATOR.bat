@@ -1,0 +1,1 @@
+java -jar asciianimator.jar -f animations/Gun.txt -l true -fps 10
